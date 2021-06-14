@@ -1,0 +1,4 @@
+import os
+os.system ('clear')
+ovv = input ('Type your name:') 
+print ('Naice name' , ovv)
